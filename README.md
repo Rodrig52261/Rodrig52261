@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Rodrig52261
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Olá! Meu Nome é Rodrigo, Prazer🤝
 
-<!---
-Rodrig52261/Rodrig52261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8z7rzw9E)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rodrigo_52261)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodrigosousa8502@gmail.com)
+
+![RodrigoSousa GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSousa&show_icons=true&theme=synthwave)
+
+## Linguagens Que Eu Estudo
+
+<div style="display: inline_block"><br>
+
+<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+</div>
