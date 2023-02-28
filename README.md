@@ -3,8 +3,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8z7rzw9E)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rodrigo_52261)
 
-![RodrigoSousa GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSousa&show_icons=true&theme=synthwave)
-
 ## Linguagens Que Eu Estudo
 
 <div style="display: inline_block"><br>
