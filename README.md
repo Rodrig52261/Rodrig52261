@@ -4,9 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rodrigo_52261)
 <a href="https://www.instagram.com/drigas_digo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-![Rodrig GitHub Stats](
-  https://github-readme-stats.vercel.app/api?Rodrig52261={Rodrig52261}&theme=blue-green
-  )
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrig52261&show_icons=true&theme=dracula&count_private=true)
 
 ## Linguagens Que Eu Estudo
 
