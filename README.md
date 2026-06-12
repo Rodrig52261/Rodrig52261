@@ -56,4 +56,4 @@ Se você tem interesse em trocar figurinhas sobre desenvolvimento ou tem um proj
 📧 **E-mail:** [rodrigosousa8502@gmail.com](mailto:rodrigosousa8502@gmail.com)
 
 ### 🐍 Minhas Contribuições
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rodrig52261/Rodrig52261/blob/output/github-contribution-grid-snake.svg)
