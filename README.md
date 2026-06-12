@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Olá! Eu sou o Rodrigo
-### Desenvolvedor Full Stack em Construção | Entusiasta de UI/UX 🤝
+### Desenvolvedor Full Stack
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8z7rzw9E)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rodrigo_52261)
